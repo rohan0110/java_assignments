@@ -15,5 +15,6 @@ public class quadratic {
             System.out.println("Root1 : "+x1);
             System.out.println("\nRoot2 : "+x2);
         }
+        System.out.println("this is the output of quadratic equation")
     }
 }
